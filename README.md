@@ -1,7 +1,7 @@
 # Real-Time Face Recognition
 
    <p align="center">
-   <img src="./assets/face-recognition.gif" alt="Face Recognition" />
+   <img src="./assets/FaceRecognition.gif" alt="Face Recognition" />
    <br>
    <em>Face Recognition</em>
    </p>
